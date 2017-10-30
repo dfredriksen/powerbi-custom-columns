@@ -1,2 +1,2 @@
 # powerbi-custom-columns
-Custom column formulas for Power BI
+A collection of formulas useful for creating custom columns in Microsoft Power BI

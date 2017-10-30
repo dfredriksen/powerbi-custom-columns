@@ -1,0 +1,2 @@
+/* replace [Column1.location.timeStamp] with your timestamp column */
+#datetime(1970, 1, 1, 0, 0, 0) + #duration(0, 0, 0, [Column1.location.timeStamp]/1000)
